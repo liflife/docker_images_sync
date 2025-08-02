@@ -1,1 +1,1 @@
-ghcr.io/senshinya/moontv:latest
+--platform linux/arm64 ghcr.io/senshinya/moontv:latest
