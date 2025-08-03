@@ -1,1 +1,2 @@
 ghcr.io/senshinya/moontv:latest
+bestzwei/libretv:latest
