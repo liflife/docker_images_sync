@@ -1,3 +1,4 @@
 ghcr.io/senshinya/moontv:latest
 bestzwei/libretv:latest
 vinlic/doubao-free-api:latest
+vinlic/deepseek-free-api:latest
