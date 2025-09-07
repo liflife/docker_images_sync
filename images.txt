@@ -1,1 +1,2 @@
 ghcr.io/moontechlab/lunatv:latest
+apache/kvrocks
