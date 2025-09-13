@@ -1,2 +1,3 @@
 ghcr.io/moontechlab/lunatv:latest
 apache/kvrocks
+mysql:5.7
